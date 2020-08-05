@@ -5,9 +5,9 @@ title: Take the Sword | TTS
 
 # Here you can add link in main menu
 menu:
-- {name: Work, url: 'work', icon: 'ion ion-ios-skull-outline'}
+- {name: Work, url: 'work', icon: 'ion ion-ios-skull'}
 - {name: Blog, url: 'blog', icon: 'ion ion-ios-paper'}
-- {name: Contact, url: 'contact', icon: 'ion ion-ios-gitlab'}
+- {name: Contact, url: 'contact', icon: 'ion ion-logo-gitlab'}
 
 #-------------------------------
 # About Section
