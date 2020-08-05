@@ -5,9 +5,9 @@ title: Take the Sword | TTS
 
 # Here you can add link in main menu
 menu:
-- {name: Work, url: 'work', icon: 'ion ion-ios-briefcase'}
+- {name: Work, url: 'work', icon: 'ion ion-ios-skull-outline'}
 - {name: Blog, url: 'blog', icon: 'ion ion-ios-paper'}
-- {name: Contact, url: 'contact', icon: 'ion ion-ios-mail'}
+- {name: Contact, url: 'contact', icon: 'ion ion-ios-gitlab'}
 
 #-------------------------------
 # About Section
@@ -15,7 +15,7 @@ menu:
 avatar: 05.jpg
 name: Driex
 my-job: Not a Jedi, never had a Master.
-description: Let's fix it with ducktape or with PowerShell.
+description: It all started with my co-worker telling me, take the sword....A reference to PowerShell.
 email: noreply@takethesword.nl
 
 #-------------------------------
@@ -60,13 +60,13 @@ clients-title: Reviews
 clients:
 - {
   name: "D Poolie",
-  title: "Right Hand",
-  quote: "<p><strong>Working with Driex was the highlight of my career.</strong> He told me everthing and then left me QQ .</p>"
+  title: "Sys Engineer",
+  quote: "<p><strong>Working with Driex was the highlight of my career.</strong> He told me everything & left me QQ.</p>"
 }
 - {
   name: "Bossman",
   title: "Director of Minions, Telecom & IT",
-  quote: "<p><strong>He STRONK.</strong> True that.</p>"
+  quote: "<p><strong>He STRONK.</strong> We gave him trash, he blast past the trash.</p>"
 }
 
 
