@@ -16,18 +16,16 @@ And you really wanna hide your name from all your fanboys.
 
 You downloaded GIT, open up a shell and check the following.
 
-{% highlight js %} 
-git config --list
+{% highlight js %} git config --list
 {% endhighlight %}
 
 Wall of text and at the bottom you'll find user.name and user.email and my guess is that it shows a wrong name :> ? 
 
 Change accordingly
 
-{% highlight js %} 
-git config --global user.name "Fred"
+{% highlight js %} git config --global user.name "Fred"
 git config --global user.email "Fred@noreply.com" 
 {% endhighlight %}
 
-Validate with config --list command and you are golden.
+Validate with config - - list command and you are golden.
 
