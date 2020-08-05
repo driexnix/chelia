@@ -5,9 +5,9 @@ title: Take the Sword | TTS
 
 # Here you can add link in main menu
 menu:
-- {name: Work, url: 'work', icon: 'ion ion-ios-skull'}
+- {name: Work, url: 'work', icon: 'ion  ion-icon-skull'}
 - {name: Blog, url: 'blog', icon: 'ion ion-ios-paper'}
-- {name: Contact, url: 'contact', icon: 'ion ion-logo-gitlab'}
+- {name: Contact, url: 'contact', icon: 'ion ion-icon-gitlab'}
 
 #-------------------------------
 # About Section
@@ -15,7 +15,7 @@ menu:
 avatar: 05.jpg
 name: Driex
 my-job: Not a Jedi, never had a Master.
-description: It all started with my co-worker telling me, take the sword....A reference to PowerShell.
+description: It all started with my co-worker telling me, take the sword a reference to PowerShell.
 email: noreply@takethesword.nl
 
 #-------------------------------
@@ -108,6 +108,7 @@ social:
 - {link: "https://portal.office.com", icon: ion-logo-windows }
 - {link: "https://linkedin.com", icon: ion-logo-linkedin }
 - {link: "https://github.com", icon: ion-logo-github }
+- {link: "https://google.nl", icon: ion-icon-skull }
 
 # social network icons available (https://ionicons.com/): 'xbox' / 'windows' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
 
