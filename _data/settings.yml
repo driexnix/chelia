@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Chris Hadley | My personal website 
+title: Take the Sword | TTS
 
 # Here you can add link in main menu
 menu:
@@ -13,69 +13,62 @@ menu:
 # About Section
 
 avatar: 05.jpg
-name: Chris Hadley
-my-job: Designer & Illustrator
-description: I’m a product designer, illustrator & side-project enthusiast. I’m currently build great products at Pixel Media.
-email: chris@website.com
+name: Driexnix
+my-job: Not a Jedi, never had a Master.
+description: Let's try to fix it with Ducktape or with PowerShell.
+email: noreply@takethesword.nl
 
 #-------------------------------
 # Skills Section
 
 skills-title: Professional Skills
 skills:
-- {name: Communication, value: '90'}
-- {name: Learning, value: '95'} 
-- {name: Planning, value: '60'}
-- {name: Visual Design, value: '80'}
-- {name: UX Design, value: '85'}
-- {name: Programming, value: '70'}
+- {name: Exchange, value: '90'}
+- {name: Cisco, value: '60'} 
+- {name: WVD, value: '90'}
+- {name: Office 365, value: '95'}
+- {name: FortiNet, value: '65'}
+- {name: PowerShell, value: '70'}
 
 #-------------------------------
 # Experience Section
 
 experience-title: Experience
 experience:
-- {company-name: Industry Design & Media, duration: 2015 - 2018, job-position: Graphic and Web Designer in San Francisco, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {company-name: Telecom & Projects, duration: 2012 - 2017, job-position: Sys-admin, description: Building greenfield on RedHat Enterprise cluster - New Forest, Multiple DC's, Exchange 2010, Back-up, deployment of RMM tooling Kaseya.}
 
-- {company-name: Graphic Design, duration: 2011 - 2015, job-position: Senior Illustrator in Milan, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {company-name: Telecom & IT, duration: 2017 - 2019, job-position: Project Lead Engineer, description: Setting up migration projects & Building NOC.}
 
-- {company-name: Pixel Media, duration: 2008 - 2011, job-position: Designer in Chicago, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {company-name: Telecom & IT, duration: 2019 - 2020, job-position: Technical Lead Engineer, description: Expanding NOC.}
+
+- {company-name: Telecom & IT, duration: 2020 - 2021, job-position: Cloud & Security Engineer, description: Building SOC.}
 
 #-------------------------------
 # Education Section
 
 education-title: Education
 education:
-- {degree: Master Degree, years: 2002 - 2006, organization: University of Creative Minds, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {degree: Network Administrator, years: 2011 - 2012, organization: University of Grunn, description: Passed.}
 
-- {degree: Bachelores Degree, years: 1998 - 2002, organization: University of Creative Minds, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {degree: Servicedesk, years: 2009 - 2010, organization: University of Grunn, description: Passed.}
 
-- {degree: Specialised Coursework, years: 1997 - 1998, organization: University of Boston, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {degree: Car Mechanice, years: 2007 - 2008, organization: University of Friesland, description: Passed.}
 
 #-------------------------------
 # Clients Section
-clients-title: Clienst
+clients-title: Reviews
 clients:
 - {
-  name: "Dianna Smiley",
-  title: "Social Media, Co and Co",
-  quote: "<p><strong>Working with Chris was the highlight of my career.</strong> Art party before they sold out lo-fi cronut. Narwhal normcore kinfolk crucifix cronut coloring book man braid lomo fixie sartorial helvetica cornhole activated charcoal ethical.</p>"
+  name: "D Poolie",
+  title: "Right Hand",
+  quote: "<p><strong>Working with Driex was the highlight of my career.</strong> He told me everthing and then left me QQ .</p>"
 }
 - {
-  name: "Loki Bright",
-  title: "Director of Design, New Devi Art",
-  quote: "<p><strong>While we all felt that Chris was a great.</strong> Woke lumbersexual iceland truffaut blog, deep v poke ramps vexillologist heirloom flexitarian taxidermy lomo seitan gastropub. Bespoke vape next level meditation tattooed cred.</p>"
+  name: "Bossman",
+  title: "Director of Minions, Telecom & IT",
+  quote: "<p><strong>He STRONK.</strong> True that.</p>"
 }
-- {
-  name: "Korbyn Colon",
-  title: "Art Director, LTD Corporate",
-  quote: "<p><strong>Chillwave ethical enamel pin, fashion axe leggings.</strong> Bespoke franzen umami sustainable. Chambray keffiyeh cred sriracha. Hashtag street art humblebrag pok pok viral meggings tacos chambray narwhal gentrify woke etsy.</p>"
-}
-- {
-  name: "Gracelyn Mason",
-  title: "Journalist, The Best Newspaper",
-  quote: "<p><strong>Skateboard iceland distillery succulents dreamcatcher cloud bread ugh keffiyeh unicorn austin.</strong> Palo santo health goth forage four dollar toast. Thundercats ramps irony meggings lo-fi kogi. Activated charcoal pitchfork you probably haven't heard of them squid.</p>"
-}
+
 
 #-------------------------------
 # Work Section
