@@ -15,7 +15,7 @@ menu:
 avatar: 05.jpg
 name: Driex
 my-job: Not a Jedi, never had a Master.
-description: Blast past the trash, I'm the prize of the sector.
+description: Let's fix it with ducktape or with PowerShell.
 email: noreply@takethesword.nl
 
 #-------------------------------
@@ -25,10 +25,10 @@ skills-title: Professional Skills
 skills:
 - {name: Exchange, value: '90'}
 - {name: Cisco, value: '60'} 
-- {name: WVD, value: '90'}
-- {name: Office 365, value: '95'}
+- {name: WVD, value: '75'}
+- {name: MS 365, value: '95'}
 - {name: FortiNet, value: '65'}
-- {name: PowerShell, value: '70'}
+- {name: Azure Sentinel, value: '40'}
 
 #-------------------------------
 # Experience Section
@@ -103,13 +103,13 @@ projects:
 # Social Settings
 
 social:
-- {link: "https://facebook.com", icon: ion-logo-facebook }
-- {link: "https://twitter.com", icon: ion-logo-twitter }
-- {link: "https://dribbble.com", icon: ion-logo-dribbble }
+#- {link: "https://facebook.com", icon: ion-logo-facebook }
+- {link: "https://xbox.com", icon: ion-logo-xbox }
+#- {link: "https://dribbble.com", icon: ion-logo-dribbble }
 - {link: "https://linkedin.com", icon: ion-logo-linkedin }
 - {link: "https://github.com", icon: ion-logo-github }
 
-# social network icons available (https://ionicons.com/): 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
+# social network icons available (https://ionicons.com/): 'xbox' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
 
 #-------------------------------
 # Comment Section (Disqus)
