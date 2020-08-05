@@ -105,7 +105,7 @@ projects:
 social:
 #- {link: "https://facebook.com", icon: ion-logo-facebook }
 - {link: "https://xbox.com", icon: ion-logo-xbox }
-#- {link: "https://dribbble.com", icon: ion-logo-dribbble }
+- {link: "https://portal.office.com", icon: ion-logo-Windows }
 - {link: "https://linkedin.com", icon: ion-logo-linkedin }
 - {link: "https://github.com", icon: ion-logo-github }
 
