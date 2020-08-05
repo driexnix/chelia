@@ -10,11 +10,10 @@ Let's try to make a fast script that wil "WoW" your online fans....
 
 ## Open PowerShell ISE
 
-Copy & Past highlighted area in PS ISE and click run.
+Copy & Past below highlighted area in PS ISE and click run.
 Windows might uninstall if done right.
 
-{% highlight js %}
- 
+{% highlight js %} 
 #Show current connected Wi-Fi name (SSID).
 $CurrentWifi= (Get-NetConnectionProfile).name  
 
