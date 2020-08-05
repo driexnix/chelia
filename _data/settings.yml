@@ -105,11 +105,11 @@ projects:
 social:
 #- {link: "https://facebook.com", icon: ion-logo-facebook }
 - {link: "https://xbox.com", icon: ion-logo-xbox }
-- {link: "https://portal.office.com", icon: ion-logo-Windows }
+- {link: "https://portal.office.com", icon: ion-logo-windows }
 - {link: "https://linkedin.com", icon: ion-logo-linkedin }
 - {link: "https://github.com", icon: ion-logo-github }
 
-# social network icons available (https://ionicons.com/): 'xbox' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
+# social network icons available (https://ionicons.com/): 'xbox' / 'windows' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
 
 #-------------------------------
 # Comment Section (Disqus)
