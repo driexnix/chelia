@@ -1,0 +1,33 @@
+---
+layout: post
+title:  PS - Partner Portal ForEach
+date:   2020-08-05 10:10:00 +0300
+image:  01.jpg
+---
+
+# Powershell connection towards clients
+
+When you setup a baseline script, you'd hate it to run the script per client tenant. We need to automate this. 
+
+The start:
+{% highlight js %}
+Connect-MsolService
+{% endhighlight %}
+
+If Connect-MsolService is new to you, please go back to start.
+Let's make a variable of all your clients.
+
+{% highlight js %}
+$clients = get-msolPartnerContract -all
+{% endhighlight %}
+
+Lets run a ForEach loop
+
+{% highlight js %}
+ForEach ($client in $clients) {Get-MsolDomain -TenantId $client.TenantId}
+{% endhighlight %}
+
+Press <b>Enter</b>
+
+You'll receive a list of all your clients and their domain. 
+Great success.
