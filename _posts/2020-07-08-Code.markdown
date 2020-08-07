@@ -1,0 +1,30 @@
+---
+layout: post
+title:  Kan twee elementen in de matrix neit vergelijken
+date:   2020-08-06 10:10:00 +0300
+image:  04.jpg
+---
+# Matrix niet vergelijken.
+
+Getting the following issue when PSíng for all members in local group "Administrators"
+
+{% highlight js %}
+Get-LocalGroupMember : Kan twee elementen in de matrix niet vergelijken.
+At line:1 char:1
+Get-LocalGroupMember -Group Administrators
+{% endhighlight %}
+
+After searching online, seeing multiple people with this, but no real instant fix. 
+Going for MMC. and checking the Group with GUI, we'll see a few SID's that have been expired. 
+The message Two elements in the matrix refer too the amount of corrupt SID's. 
+
+After the removal you'll get a correct result in PS.
+
+ObjectClass Name                  PrincipalSource
+----------- ----                  ---------------
+User        AzureAD\Driex               AzureAD
+User        AlienWare\Administrator     Local
+
+
+
+
