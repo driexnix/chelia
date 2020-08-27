@@ -38,3 +38,9 @@ Within Visual Studio when you select a string and Press <strong>  CONTROL + F </
 If you press <strong> Alt + Enter </strong> you get a way to manipulate all the same name fields/strings. 
 Also handy to purge a C:/user-name blab-la sting that's in the way :> 
 
+
+# MS Teams sharing Code
+Within MS Teams you have the following option to share code in proper format. 
+> Opmaak -> Meer Opties -> CodeFragment -> Select Code style preferably Powershell Grote glimlach
+​​​​​​​ 
+This way you are able to share your code in perfect state to colleges to gloat over the awesomeness you've created.
