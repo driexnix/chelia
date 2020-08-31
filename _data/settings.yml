@@ -15,7 +15,7 @@ menu:
 avatar: 05.jpg
 name: Driex
 my-job: Not a Jedi, never had a Master.
-description: It all started with my co-worker telling me, take the sword a reference to PowerShell.
+description: It all started with my co-worker telling me, take the Sword, a reference to PowerShell resolving all issues.
 email: noreply@takethesword.nl
 
 #-------------------------------
@@ -24,11 +24,11 @@ email: noreply@takethesword.nl
 skills-title: Professional Skills
 skills:
 - {name: Exchange, value: '90'}
-- {name: Cisco, value: '60'} 
-- {name: WVD, value: '75'}
-- {name: MS 365, value: '95'}
-- {name: FortiNet, value: '65'}
-- {name: Azure Sentinel, value: '40'}
+- {name: Routing/Switching, value: '60'} 
+- {name: GreenField Deployments, value: '85'}
+- {name: Intune/Azure, value: '70'}
+- {name: T-shooting/Building Scripts, value: '80'}
+- {name: CyberSecurity, value: '40'}
 
 #-------------------------------
 # Experience Section
