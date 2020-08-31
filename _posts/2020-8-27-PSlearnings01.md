@@ -44,3 +44,5 @@ Within MS Teams you have the following option to share code in proper format.
 > Opmaak -> Meer Opties -> CodeFragment -> Select Code style preferably Powershell Grote glimlach
 ​​​​​​​ 
 This way you are able to share your code in perfect state to colleges to gloat over the awesomeness you've created.
+
+# 
