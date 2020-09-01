@@ -8,7 +8,8 @@ image:  02.jpg
 
 # SQL Query all usernames in DB
 
-<`
+
+<pre><code>
 select name as username,
        create_date,
        modify_date,
@@ -19,19 +20,19 @@ where type not in ('A', 'G', 'R', 'X')
       and sid is not null
       and name != 'guest'
 order by username;
+</code></pre>
 
-`>
 
 # Login
 Als je inlogt met SQL Admin, heb je geen mogelijkheid tot het toevoegen van Azure AD members.
 
 # Toevoegen van AZ Users
 
-<`
+<pre><code>
 CREATE USER [username@company.com] FROM EXTERNAL PROVIDER;
 CREATE USER [username@company.com] FROM EXTERNAL PROVIDER;
 CREATE USER [username@company.com] FROM EXTERNAL PROVIDER;
-`>
+</code></pre>
 
 
 # Toevoegen van Groups
@@ -41,4 +42,4 @@ If you get an issue, check token - reconnect and check you are in the correct db
 
 # Toevoegen van rechten
 
-ALTER ROLE db_datawriter ADD MEMBER [username.comp]
+> ALTER ROLE db_datawriter ADD MEMBER [username.comp]
