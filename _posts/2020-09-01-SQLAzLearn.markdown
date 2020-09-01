@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SQLAz Learning
+title:  SQL Az Learning
 date:   2020-09-01 10:10:00 +0300
 image:  02.jpg
 ---
