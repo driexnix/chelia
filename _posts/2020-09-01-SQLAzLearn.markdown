@@ -38,3 +38,7 @@ CREATE USER [username@company.com] FROM EXTERNAL PROVIDER;
 
 > Create USER [SQLAzDev] FROM EXTERNAL PROVIDER;
 If you get an issue, check token - reconnect and check you are in the correct db.
+
+# Toevoegen van rechten
+
+ALTER ROLE db_datawriter ADD MEMBER [username.comp]
